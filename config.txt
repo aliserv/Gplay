@@ -1,6 +1,6 @@
-token= NTEwODkxMDg2MDEzNjYxMTk0.Dsi9aA.lZMYTGW1kq_e7PpEcSteuwkTZck
-owner= 478954803657965569
-prefix= G
-game= Type Ghelp
+token= NTEyMDM5ODA0ODUxMTkxODQ5.Dszqcw._jVSdQIxqb0StmlPCdAxsUlQ0UM
+owner= 314866432418643969
+prefix= 3
+game= 3help
 stayinchannel=true 
 songinstatus=false 
